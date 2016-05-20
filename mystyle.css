@@ -1,7 +1,7 @@
 <style>
 #headerdiv {
-    background-color:black;
-	font-style: italic;
+    background-color:#680000;
+    font-style: italic;
     color:white;
     text-align:center;
     padding:5px;
@@ -13,14 +13,14 @@
     width:125px;
     float:left;
     padding:5px;
-	margin-bottom: 30px;
+    margin-bottom: 30px;
 }
 
 #middiv {
     width:350px;
     float:left;
     padding:10px;
-	margin-left:60px;
+    margin-left:60px;
 }
 #image_right {
 	float:left;
@@ -31,13 +31,13 @@
 	padding-top:20px;
 }
 #footerdiv {
-    background-color:black;
+    background-color:#680000;
     color:white;
     clear:both;
     text-align:center;
     padding:5px;
 }
 .italic {
-	font-style:italic;
+    font-style:italic;
 }
 </style>
